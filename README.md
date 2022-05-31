@@ -1,24 +1,13 @@
-# README
+Appli focntionnelle, je n'ai juste pas fait la partie "2.3. Boite à musique ciblée" :
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Pour la dernière partie du projet, nous allons te demander de faire en sorte que le code JS du drum kit ne s'exécute QUE dans la view concernée. Les autres views ne doivent pas exécuter le code du drum kit.
 
-Things you may want to cover:
+En gros, tu devras trouver un moyen pour que le fichier drum.js (ou autre nom) ne soit exécuté que dans la view avec le drum kit.
 
-* Ruby version
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
 
-* System dependencies
+=> je pense qu'il faut :
+  1) enlever le "require drumkit" du fichier "application.js" rangé dans "app/assets/javascripts" ;
+  2) faire appel à "application.js" directement dans ma view "root" (<script src="chemin_du_fichier/fichier.js"></script>)
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+A CONFIRMER !
