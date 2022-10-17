@@ -4,7 +4,7 @@
 )](https://www.thehackingproject.org/)
 #### May 31st 2022
 
-# the Drumkit Project
+# the Drumkit Project :notes:
 
 ![Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
