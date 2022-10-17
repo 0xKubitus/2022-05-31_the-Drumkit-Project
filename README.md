@@ -21,8 +21,13 @@ There is also an animation on the screen when a key is pressed, thanks to Javasc
 <ol>
   <li>Simply clone this repo on your machine,</li>
   <li>then open this repo in a Terminal window,</li>
-  <li>run `rails server`.</li>
+  <li>run the following command in your Terminal:</li>
 </ol>
+
+ ```
+rails server
+``` 
+
 => You're ready to have fun playing with my drumkit! :+1:
 
 
