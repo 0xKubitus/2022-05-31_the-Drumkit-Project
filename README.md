@@ -9,9 +9,10 @@
 ![Ruby v2.7.4](https://img.shields.io/static/v1?logo=ruby&label=Ruby&message=v2.7.4&color=0B0D0E&style=for-the-badge&labelColor=CC342D)
 ![Rails v5.2.3](https://img.shields.io/static/v1?logo=rubyonrails&label=Rails&message=v5.2.3&color=0B0D0E&style=for-the-badge&labelColor=cc0000)
 
-During this project, I have created an ***Email Viewer*** web application.  
+During this project, I have created a fake ***Email Viewer*** web application.  
 
-It offers less features than Gmail, but it uses AJAX and Ruby on Rails so it's a really cool project! :wink:
+It offers less features than Gmail, but it uses AJAX and Ruby on Rails so it's a really cool project! :wink:  
+The goal was not to create a new interface to receive our real emails on, but to learn and practice AJAX requests on a Rails 5 app.
 
 </div>
 <br/>
@@ -38,6 +39,15 @@ rails server
 
 <br/>
 
-=> I invite you to open your browser on: "http://localhost:3000/" to try out my ***Email Viewer*** using AJAX on a Rails 5 app!
+You can now open your browser on: "http://localhost:3000/" to try out my ***Email Viewer*** using AJAX on a Rails 5 app!
 
+<br/>
+
+## Features included in this project:
+<ul>
+  <li>Create new emails;</li>
+  <li>Open/Read emails;</li>
+  <li>Delete emails;</li>
+  <li>Manage Unread & Read emails;</li>
+</ul>
 
