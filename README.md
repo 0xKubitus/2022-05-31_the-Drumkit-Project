@@ -2,45 +2,42 @@
 
 [![THP Badge](https://github.com/0xKubitus/Usefull-Stuff-for-README/blob/main/assets/mkdwn-badges/the-hacking-project.svg
 )](https://www.thehackingproject.org/)
-#### May 31st 2022
+#### June 2nd 2022
 
-# the Drumkit Project :notes:
+# AJAX Gmail-like Project
 
-![Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Ruby v2.7.4](https://img.shields.io/static/v1?logo=ruby&label=Ruby&message=v2.7.4&color=0B0D0E&style=for-the-badge&labelColor=CC342D)
+![Rails v5.2.3](https://img.shields.io/static/v1?logo=rubyonrails&label=Rails&message=v5.2.3&color=0B0D0E&style=for-the-badge&labelColor=cc0000)
 
-After a few days to discover and learn the basics of Javascript and manipulating DOM elements, I realized this Drumkit project:
+During this project, I have created an ***Email Viewer*** web application.  
 
-When a user opens the app on their browser, they can play a specific instrument's sound when they press a specific key on their keyboard.
-There is also an animation on the screen when a key is pressed, thanks to Javascript.
+It offers less features than Gmail, but it uses AJAX and Ruby on Rails so it's a really cool project! :wink:
+
 </div>
 <br/>
   
   
 ## How to use this repo:
 <ol>
-  <li>Simply clone this repo on your machine,</li>
-  <li>then open this repo in a Terminal window,</li>
-  <li>run the following command in your Terminal:</li>
+  <li>Simply clone this repo on your machine;</li>
+  <li>then open this repo in a Terminal window;</li>
+  <li>run the following commands in your Terminal:</li>
 </ol>
+
+ ```
+bundle install
+``` 
+
+ ```
+rails db:create db:migrate db:seed
+``` 
 
  ```
 rails server
 ``` 
 
-=> You're ready to have fun playing with my drumkit! :+1:
-
-
-
-
-<br/>
-<hr/>
-<br/>
 <br/>
 
-
-
-
-
+=> I invite you to open your browser on: "http://localhost:3000/" to try out my ***Email Viewer*** using AJAX on a Rails 5 app!
 
 
