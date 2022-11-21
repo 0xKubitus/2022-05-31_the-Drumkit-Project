@@ -2,12 +2,12 @@
 
 [![THP Badge](https://github.com/0xKubitus/Usefull-Stuff-for-README/blob/main/assets/mkdwn-badges/the-hacking-project.svg
 )](https://www.thehackingproject.org/)
-#### June 2nd 2022
 
 # AJAX Gmail-like Project
 
 ![Ruby v2.7.4](https://img.shields.io/static/v1?logo=ruby&label=Ruby&message=v2.7.4&color=0B0D0E&style=for-the-badge&labelColor=CC342D)
 ![Rails v5.2.3](https://img.shields.io/static/v1?logo=rubyonrails&label=Rails&message=v5.2.3&color=0B0D0E&style=for-the-badge&labelColor=cc0000)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 During this project, I have created a fake ***Email Viewer*** web application.  
 
